@@ -2,7 +2,7 @@
 
 ### I'm a Student and Developer!
 
-- 🔭 I’m currently working on my [Portfolio Website]!
+- 🔭 I’m currently working on my [Portfolio]!
 - 🌱 I’m currently learning everything :sweat_smile:
 - :sailboat: I’m looking to collaborate with other developers
 - :mount_fuji: 2020 Goals: Build more projects
