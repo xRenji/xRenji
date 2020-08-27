@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning everything :sweat_smile:
 - :sailboat: I’m looking to collaborate with other developers
 - :mount_fuji: 2020 Goals: Build more projects
+- :pencil2: Check out my [CodePen]! 
 - :house_with_garden: Based in Sydney
 - :fire: Fun fact: I love to play guitar
 
@@ -28,5 +29,6 @@
 <br />
 
 [Portfolio Website]: https://andrearalletti.com
+[CodePen]: https://codepen.io/xRenji
 
 
