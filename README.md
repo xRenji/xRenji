@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my [Portfolio Website]!
 - 🌱 I’m currently learning everything :sweat_smile:
 - :sailboat: I’m looking to collaborate with other developers
-- :mount_fuji: 2021 Goals: Build more projects
+- :mount_fuji: 2023 Goals: Build more projects
 - :pencil2: Check out my [CodePen]! 
 - :house_with_garden: Based in Sydney
 - :fire: Fun fact: I love to play guitar
@@ -14,6 +14,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
